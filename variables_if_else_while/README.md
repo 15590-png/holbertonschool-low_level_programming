@@ -17,4 +17,6 @@ relational and logical operators, `if` / `else` statements and
   letters q and e, using putchar
 amming/variables_if_else_while
 - `5-print_numbers.c`: prints all single digit numbers of base 10,
-  starting from 0.#.....
+  starting from 0.#....
+- `6-print_numberz.c`: prints all single digit numbers of base 10,
+  starting from 0, using only putchar and no char variable..
