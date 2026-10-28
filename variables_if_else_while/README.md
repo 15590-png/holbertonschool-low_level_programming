@@ -14,4 +14,7 @@ relational and logical operators, `if` / `else` statements and
 - `3-print_alphabets.c`: prints the alphabet in lowercase, then in
   uppercase, using putchar
 - `4-print_alphabt.c`: prints the lowercase alphabet without the
-  letters q and e, using putchar.....
+  letters q and e, using putchar
+amming/variables_if_else_while
+- `5-print_numbers.c`: prints all single digit numbers of base 10,
+  starting from 0.#.....
