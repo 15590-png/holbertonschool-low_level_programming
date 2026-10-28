@@ -23,4 +23,6 @@ amming/variables_if_else_while
 - `7-print_tebahpla.c`: prints the lowercase alphabet in reverse,
   using putchar
 - `8-print_base16.c`: prints all the numbers of base 16 in lowercase,
-  using putchar....
+  using putchar
+- `9-print_comb.c`: prints all possible combinations of single-digit
+  numbers, separated by a comma and a space, using putchar.....
