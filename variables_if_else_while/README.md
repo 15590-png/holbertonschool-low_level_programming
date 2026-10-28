@@ -12,4 +12,6 @@ relational and logical operators, `if` / `else` statements and
   compares it to 0 and 5
 - `2-print_alphabet.c`: prints the alphabet in lowercase using putchar
 - `3-print_alphabets.c`: prints the alphabet in lowercase, then in
-  uppercase, using putchar....
+  uppercase, using putchar
+- `4-print_alphabt.c`: prints the lowercase alphabet without the
+  letters q and e, using putchar.....
