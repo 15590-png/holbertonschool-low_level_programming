@@ -10,4 +10,6 @@ relational and logical operators, `if` / `else` statements and
   positive, zero or negative
 - `1-last_digit.c`: prints the last digit of a random number and
   compares it to 0 and 5
-- `2-print_alphabet.c`: prints the alphabet in lowercase using putchar...
+- `2-print_alphabet.c`: prints the alphabet in lowercase using putchar
+- `3-print_alphabets.c`: prints the alphabet in lowercase, then in
+  uppercase, using putchar....
